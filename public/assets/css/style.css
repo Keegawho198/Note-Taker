@@ -1,0 +1,30 @@
+/* navbar */
+
+.navbar-default {
+    background-color: lightcoral;
+    border-color: #E7E7E7;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+#container-textcenter{
+    /* width: 300px; */
+    border: 8px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+/* .btn{
+    text-align: center;
+    align-content: center;
+} */
