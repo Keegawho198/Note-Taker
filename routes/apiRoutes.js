@@ -1,4 +1,4 @@
-var tableData = require("../db/test");
+var tableData = require("../db/tabledata");
 
 
 module.exports = function (app) {
