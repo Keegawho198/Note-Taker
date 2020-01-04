@@ -9,7 +9,7 @@ function runTableQuery() {
       console.log("------------------------------------");
 
       // Loop through and display each of the customers
-      for (var i = 0; i < tableData.length;) {
+      for (var i = 0; i < tableData.length; i++) {
 
         // Get a reference to the tableList element and populate it with tables
         var tableList = $("#tableList");
