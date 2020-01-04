@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "take notes",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keegawho198/Note-Taker.git"
+  },
+  "author": "Keegan Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keegawho198/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Keegawho198/Note-Taker#readme"
+}
